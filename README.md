@@ -1,10 +1,10 @@
 # 📊 Dmart-sales-analysis-using-PowerBI
 
-📌Project Overview
+## 📌Project Overview  
 
 this power BI dashboard analyses D-Mart revenue, customer behaviour, payment and operations, and trends.
 
-🚀 Features
+## 🚀 Features  
 
 \- Total revenue
 \- sales by category
@@ -13,14 +13,13 @@ this power BI dashboard analyses D-Mart revenue, customer behaviour, payment and
 \- cancellation rate
 \- payment method analysis
 
-\## 🛠 Tools Used
+## 🛠 Tools Used  
 
 \- Power BI
-
 \- Excel
 
 
-\## 📊 Key Insights
+## 📊 Key Insights  
 
 \- total revenue generated 16.95M
 
@@ -37,6 +36,6 @@ this power BI dashboard analyses D-Mart revenue, customer behaviour, payment and
 
 
 
-\## 👩‍💻 Author
+## 👩‍💻 Author
 
 Anjali verma
